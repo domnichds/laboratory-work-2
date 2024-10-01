@@ -34,6 +34,6 @@ int main()
             counter++;
         }
     }
+    system("pause");
     return 0;
-    system("Pause");
 }
